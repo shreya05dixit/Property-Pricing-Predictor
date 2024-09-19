@@ -13,7 +13,7 @@ Watch the demo video for an overview of the Real Estate Price Prediction project
 ---
 ## Introduction
 
-This project involves creating a Machine Learning model to predict home prices in Bangalore, India. I also developed a single-page website to provide a front-end interface for accessing model’s predictions.
+This project involves creating a Machine Learning model to predict real estate prices in Bangalore, India. I also developed a single-page website to provide a front-end interface for accessing model’s predictions.
 
 ## Data Science Concepts Utilized
 
