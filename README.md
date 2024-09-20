@@ -30,7 +30,7 @@ This project involves creating a Machine Learning model to predict real estate p
 - **Numpy** and **Pandas** for Data Cleaning
 - **Matplotlib** for Data Visualization
 - **Sklearn** for Model Building
-- **Google Colaboratory Notebook**
+- **Jupyter Notebook**
 - **Python Flask** for HTTP Server
 - **HTML/CSS/JavaScript** for UI
 
